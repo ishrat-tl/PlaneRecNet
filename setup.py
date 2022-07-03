@@ -13,14 +13,6 @@ setup(
               'planerecnet/models',
               'planerecnet/models/functions',
               'planerecnet/utils'],
-    install_requires=['torch',
-                      'torchvision',
-                      'torchaudio',
-                      'opencv-python',
-                      'scipy',
-                      'numpy',
-                      'tensorboardX'
-                      ],
 
     classifiers=[
         'Development Status :: 1 - Planning',
