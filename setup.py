@@ -26,6 +26,7 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python :: 3.10'
     ],
     info='This is an official implementation for PlaneRecNet: A multi-task convolutional neural network provides '
          'instance segmentation for piece-wise planes and monocular depth estimation, and focus on the cross-task '
